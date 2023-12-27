@@ -52,9 +52,9 @@ Give the Input Combinations according to the Truth Table amd then simulate the O
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 
 
-## Developed by:### Harevasu S 
+## Developed by: Harevasu S 
 
-## RegisterNumber:### 23004355  
+## RegisterNumber: 23004355  
 */
 
 ## Code:
